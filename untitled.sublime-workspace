@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"examp",
+				"exampleScore"
+			],
+			[
+				"frame",
+				"frameTotal"
+			],
+			[
+				"find",
+				"findBonusRolls"
+			],
+			[
+				"exam",
+				"exampleResult"
+			],
+			[
+				"spare",
+				"spareFrame"
+			],
+			[
+				"getRand",
+				"getRandomFrame"
+			],
+			[
+				"standa",
+				"standaloneFramesGameTotal"
+			],
+			[
+				"tags",
+				"tags_split"
+			],
+			[
+				"test",
+				"test_photo"
+			],
+			[
+				"opp",
+				"opponent_hand"
+			],
+			[
+				"A",
+				"ALLOWED_SHAPES"
+			],
+			[
+				"get_ran",
+				"get_random_orientation"
+			],
+			[
+				"Board",
+				"BoardPrinterClass"
+			],
+			[
+				"board",
+				"board_klass"
+			],
+			[
+				"De",
+				"DEFAULT_CAPACITY"
+			],
+			[
+				"release",
+				"release_bike"
+			],
+			[
+				"releae",
+				"release_bike"
+			],
+			[
+				"Docing",
+				"DockingStation"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"y",
+				"you"
+			],
+			[
+				"zip",
+				"zipvalidate"
+			],
+			[
+				"lo",
+				"loggerNest"
+			],
+			[
+				"to",
+				"to_roman"
+			],
+			[
+				"I",
+				"I"
+			],
+			[
+				"uns",
+				"unsorted_out"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/HarriT04/project/rps-challenge/README.md",
+		"/Users/HarriT04/project/thermostat_js_kyle/SpecRunner.html",
+		"/Users/HarriT04/project/thermostat_js_kyle/spec/javascripts/fixtures/index.html",
+		"/Users/HarriT04/project/thermostat_js_kyle/spec/featureSpec.js",
+		"/Users/HarriT04/project/thermostat_js_kyle/spec/ThermostatSpec.js",
+		"/Users/HarriT04/project/thermostat_js_kyle/src/app.js",
+		"/Users/HarriT04/project/thermostat_js_kyle/README.md",
+		"/Users/HarriT04/project/thermostat_js_kyle/src/Thermostat.js",
+		"/Users/HarriT04/project/thermostat_js_kyle/index.html",
+		"/Users/HarriT04/project/thermostat_js_kyle/spec/javascript/fixtures/index.html",
+		"/Users/HarriT04/project/thermostat_js_kyle/spec/SpecHelper.js",
+		"/Users/HarriT04/project/airport_challenge_java/spec/SpecHelper.js",
+		"/Users/HarriT04/project/airport_challenge_java/src/Song.js",
+		"/Users/HarriT04/project/airport_challenge_java/lib/jasmine-2.3.4/boot.js",
+		"/Users/HarriT04/project/airport_challenge_java/lib/jasmine-2.3.4/console.js",
+		"/Users/HarriT04/project/airport_challenge_java/lib/jasmine-2.3.4/jasmine-html.js",
+		"/Users/HarriT04/project/airport_challenge_java/lib/jasmine-2.3.4/jasmine.css",
+		"/Users/HarriT04/project/airport_challenge_java/lib/jasmine-2.3.4/jasmine.js",
+		"/Users/HarriT04/Desktop/test.rb",
+		"/Users/HarriT04/Desktop/test2.rb",
+		"/Users/HarriT04/project/chitter-challenge/lib/helpers/session_user.rb",
+		"/Users/HarriT04/project/chitter-challenge/spec/factories/user.rb",
+		"/Users/HarriT04/project/chitter-challenge/spec/spec_helper.rb",
+		"/Users/HarriT04/project/chitter-challenge/spec/features/user_management_spec.rb",
+		"/Users/HarriT04/project/chitter-challenge/lib/chitter.rb",
+		"/Users/HarriT04/project/chitter-challenge/lib/models/user.rb",
+		"/Users/HarriT04/project/chitter-challenge/lib/views/layout.erb",
+		"/Users/HarriT04/project/chitter-challenge/lib/views/users/new.erb",
+		"/Users/HarriT04/project/chitter-challenge/lib/views/peeps/index.erb",
+		"/Users/HarriT04/project/chitter-challenge/Gemfile",
+		"/Users/HarriT04/project/chitter-challenge/lib/data_mapper_setup.rb",
+		"/Users/HarriT04/project/chitter-challenge/README.md",
+		"/Users/HarriT04/project/chitter-challenge/spec/models/user.rb",
+		"/Users/HarriT04/project/chitter-challenge/Rakefile",
+		"/Users/HarriT04/project/chitter-challenge/enabled.yml",
+		"/Users/HarriT04/project/bookmark_manager_zhivko/app/helpers/sign_up.rb",
+		"/Users/HarriT04/project/bookmark_manager/app/views/layout.erb",
+		"/Users/HarriT04/project/bookmark_manager/app/models/helpers.rb",
+		"/Users/HarriT04/project/takeaway-challenge/spec/meal_spec.rb",
+		"/Users/HarriT04/project/takeaway-challenge/lib/takeaway.rb",
+		"/Users/HarriT04/project/takeaway-challenge/lib/meal.rb",
+		"/Users/HarriT04/project/bookmark_manager/config.ru",
+		"/Users/HarriT04/.rvm/gems/ruby-2.1.5/gems/data_objects-0.10.16/lib/data_objects/connection.rb",
+		"/Users/HarriT04/project/rps-challenge/views/new_game.erb",
+		"/Users/HarriT04/project/rps-challenge/views/result.erb",
+		"/Users/HarriT04/project/rps-challenge/rps_web.rb",
+		"/Users/HarriT04/project/rps-challenge/views/index.erb",
+		"/Users/HarriT04/project/rps-challenge/spec/spec_helper.rb",
+		"/Users/HarriT04/project/rps-challenge/spec/hand_spec.rb",
+		"/Users/HarriT04/project/rps-challenge/spec/features/feature_spec.rb",
+		"/Users/HarriT04/project/rps-challenge/spec/game_spec.rb",
+		"/Users/HarriT04/project/rps-challenge/lib/hand.rb",
+		"/Users/HarriT04/project/rps-challenge/lib/game.rb",
+		"/Users/HarriT04/project/rps-challenge/lib/rps_web.rb",
+		"/Users/HarriT04/project/rps/Gemfile",
+		"/Users/HarriT04/project/battleships_web_bat/lib/board.rb",
+		"/Users/HarriT04/project/battleships_web_bat/lib/ship.rb",
+		"/Users/HarriT04/project/battleships_web_bat/lib/player.rb",
+		"/Users/HarriT04/project/battleships_web_bat/lib/game.rb",
+		"/Users/HarriT04/project/battleships_web_bat/game_setup.rb",
+		"/Users/HarriT04/project/battleships_web_bat/spec/features/starting_a_game_spec.rb",
+		"/Users/HarriT04/project/battleships_web_bat/views/board.erb",
+		"/Users/HarriT04/project/battleships_web_bat/views/new_game.erb",
+		"/Users/HarriT04/project/battleships_web_bat/views/index.erb",
+		"/Users/HarriT04/project/battleships_web_bat/battleships_web.rb",
+		"/Users/HarriT04/project/battleships_web_bat/spec/boardprinter_spec.rb",
+		"/Users/HarriT04/project/battleships_web_bat/lib/boardprinter.rb",
+		"/Users/HarriT04/project/harry_ships/spec/board_spec.rb",
+		"/Users/HarriT04/project/battleships_web_anthony/lib/battleships_web.rb",
+		"/Users/HarriT04/project/battleships_web_anthony/lib/board.rb",
+		"/Users/HarriT04/project/battleships_web_bat/spec/.board_spec.rb",
+		"/Users/HarriT04/project/battleships_web_anthony/views/index.erb",
+		"/Users/HarriT04/project/battleships_web_anthony/views/name.erb",
+		"/Users/HarriT04/project/battleships_web_anthony/spec/features/starting_a_game_spec.rb",
+		"/Users/HarriT04/project/battle_ships_web/views/new_game.erb",
+		"/Users/HarriT04/Downloads/output.html",
+		"/Users/HarriT04/project/battleships_web_anthony/lib/player.rb",
+		"/Users/HarriT04/project/battleships_web_anthony/lib/ship.rb",
+		"/Users/HarriT04/project/battle_ships_web/lib/battleships_web.rb",
+		"/Users/HarriT04/project/battle_ships_web/views/index.erb",
+		"/Users/HarriT04/project/battle_ships_web/spec/features/starting_a_game_spec.rb",
+		"/Users/HarriT04/project/capybara/GEMFILE",
+		"/Users/HarriT04/project/battle_ships_web/spec/spec_helper.rb",
+		"/Users/HarriT04/project/battle_ships_web/lib/cell.rb",
+		"/Users/HarriT04/project/battle_ships_web/spec/feature/starting_a_game_spec.rb",
+		"/Users/HarriT04/project/battle_ships_web/spec/feature_spec.rb",
+		"/Users/HarriT04/project/battle_ships_web/Gemfile",
+		"/Users/HarriT04/project/battle_ships_web/hello.rb",
+		"/Users/HarriT04/project/battle_ships_web/lib/views/index.erb",
+		"/Users/HarriT04/project/battle_ships_web/lib/hello.rb",
+		"/Users/HarriT04/project/harry_ships/lib/player.rb",
+		"/Users/HarriT04/project/battleships/composition_inheritance.md",
+		"/Users/HarriT04/project/battle_ships/spec/board_spec.rb",
+		"/Users/HarriT04/project/battle_ships/lib/board.rb",
+		"/Users/HarriT04/project/battle_ships/spec/player_spec.rb",
+		"/Users/HarriT04/project/battle_ships/spec/ship_spec.rb",
+		"/Users/HarriT04/project/battle_ships/README.md",
+		"/Users/HarriT04/project/battle_ships/lib/player.rb",
+		"/Users/HarriT04/project/battle_ships/lib/ship.rb",
+		"/Users/HarriT04/project/airport_challenge/spec/airport_spec.rb",
+		"/Users/HarriT04/project/airport_challenge/lib/airport.rb",
+		"/Users/HarriT04/project/airport_challenge/spec/plane_spec.rb",
+		"/Users/HarriT04/.rspec",
+		"/Users/HarriT04/project/boris_bikes/spec/spec_helper.rb",
+		"/Users/HarriT04/project/boris_bikes/spec/DockingStation_spec.rb",
+		"/Users/HarriT04/project/boris_bikes/spec/Bike_spec.rb",
+		"/Users/HarriT04/project/boris_bikes/lib/Bike.rb",
+		"/Users/HarriT04/project/boris_bikes/lib/DockingStation.rb",
+		"/Users/HarriT04/project/Boris-Bikes/spec/spec_helper.rb",
+		"/Users/HarriT04/project/Boris-Bikes/spec/docking_station_spec.rb",
+		"/Users/HarriT04/project/Boris-Bikes/spec/bike_spec.rb",
+		"/Users/HarriT04/project/Boris-Bikes/lib/docking_station.rb",
+		"/Users/HarriT04/project/Boris-Bikes/lib/bike_container.rb",
+		"/Users/HarriT04/project/Boris-Bikes/lib/bike.rb",
+		"/Users/HarriT04/project/boris_bikes/lib/poo.rb",
+		"/Users/HarriT04/project/boris_bikes/spec/bike_spec.rb",
+		"/Users/HarriT04/project/boris_bikes/spec/boris_bikes_spec.rb",
+		"/Users/HarriT04/project/boris_bikes/bike.rb",
+		"/Users/HarriT04/project/boris_bikes/boris_bikes.rb",
+		"/Users/HarriT04/project/test.rb",
+		"/Users/HarriT04/project/fizzbuzz/fizzbuzz.rb",
+		"/Users/HarriT04/project/fizzbuzz/spec/fizbuzz_spec.rb",
+		"/Users/HarriT04/project/fizzbuzz/spec/spec_helper.rb",
+		"/Users/HarriT04/project/pine/strings.rb",
+		"/Users/HarriT04/project/boris_bikes/README.md",
+		"/Users/HarriT04/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/HarriT04/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/HarriT04/project/fizzbuzz/.rspec"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"small",
+			"p ",
+			"model",
+			"\\n+?\\s",
+			"\\n\\s",
+			"designation",
+			"verti",
+			"hori",
+			"raise",
+			"curses_grid",
+			"if @grid[\"#{x}#{y}\".to_sym].content.class == Water\n					if @grid[\"#{x}#{y}\".to_sym].hit?\n						curses_grid += \"m\"\n					else\n						curses_grid += \".\"\n					end\n				else\n					if @grid[\"#{x}#{y}\".to_sym].hit?\n						curses_grid += \"x\"\n					else\n						curses_grid += \"s\"\n					end\n				end",
+			"<br>",
+			"water",
+			"launch",
+			"color",
+			"assert",
+			"help",
+			"test",
+			"include",
+			"spread",
+			"food",
+			" ) == false )",
+			"Test.expect(",
+			"v.b",
+			"v.a",
+			"proc",
+			"tens_place",
+			"ones_place",
+			"teenagers",
+			"proc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"snack-sized",
+			"\\n",
+			"fire",
+			"inRange",
+			"",
+			"v['b']",
+			"v['a']",
+			"tens",
+			"ones",
+			"teens"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 153.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
