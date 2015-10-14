@@ -87,7 +87,7 @@ feature 'restaurants' do
 
     before {Restaurant.create name: 'KFC'}
 
-    scenario 'let a user edit a restaurant' do
+    xscenario 'let a user edit a restaurant' do
       visit '/restaurants'
       user = build(:user)
       sign_up(user.email, user.password)
@@ -98,13 +98,18 @@ feature 'restaurants' do
       expect(current_path).to eq '/restaurants'
     end
 
+    scenario 'user cannot see edit restaurant link if they have not added that restaurant' do
+      visit '/'
+      expect(page).not_to have_content 'Edit KFC'
+    end
+
   end
 
   context 'deleting a restaurant' do
 
     before {Restaurant.create name: 'KFC'}
 
-    scenario 'removes a restaurant when the user clicks a delete link' do
+    xscenario 'removes a restaurant when the user clicks a delete link' do
       visit '/restaurants'
       user = build(:user)
       sign_up(user.email, user.password)
