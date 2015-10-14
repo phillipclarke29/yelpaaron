@@ -1,6 +1,9 @@
 require 'rails_helper'
+require 'helpers/user_helpers.rb'
 
 feature 'restaurants' do
+
+  include UserSignIn
 
   context 'no restaurants have been added' do
 
@@ -29,12 +32,9 @@ feature 'restaurants' do
   context 'creating restaurants' do
 
     scenario 'prompts user to fill out a form, then displays the new restaurant' do
+      user = build(:user)
       visit '/restaurants'
-      click_link 'Sign up'
-      fill_in 'Email', with: 'test@test.com'
-      fill_in 'Password', with: 'testtest'
-      fill_in 'Password confirmation', with: 'testtest'
-      click_button 'Sign up'
+      sign_up(user.email, user.password)
       click_link 'Add a restaurant'
       fill_in 'Name', with: 'KFC'
       click_button 'Create Restaurant'
